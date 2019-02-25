@@ -4,7 +4,7 @@
 
     `$ apt-get install libsdl1.2-dev`
 
-    `$ apt-get install libsdl-image1.2-dev`
+    `$ aspt-get install libsdl-image1.2-dev`
 
     `$ apt-get install libsdl-mixer1.2-dev`
 
